@@ -27,6 +27,8 @@ public class BlocNotas extends Frame implements WindowListener, ActionListener
 
 	//nuevo comentario
 	
+	//Subir este comentario al repositorio online
+	
 	MenuBar barraMenu = new MenuBar();
 
 	
