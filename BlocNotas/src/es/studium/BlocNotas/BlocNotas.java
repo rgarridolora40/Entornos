@@ -25,6 +25,7 @@ public class BlocNotas extends Frame implements WindowListener, ActionListener
 {
 	private static final long serialVersionUID = 1L;
 
+	//nuevo comentario
 	
 	MenuBar barraMenu = new MenuBar();
 
