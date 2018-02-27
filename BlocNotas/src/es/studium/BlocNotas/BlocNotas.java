@@ -29,11 +29,13 @@ public class BlocNotas extends Frame implements WindowListener, ActionListener
 	
 	//Subir este comentario al repositorio online
 	
+	//Comentario de Rafael
+	
 	MenuBar barraMenu = new MenuBar();
 
 	
 	Menu archivo = new Menu("Archivo");
-	Menu gestion = new Menu("Gestión");
+	Menu gestion = new Menu("GestiÃ³n");
 
 	
 	MenuItem archivoNuevo = new MenuItem("Nuevo");
@@ -302,7 +304,7 @@ public class BlocNotas extends Frame implements WindowListener, ActionListener
 						numVocales++;
 					}
 					
-					else if ((c=='á')||(c=='é')||(c=='í')||(c=='ó')||(c=='ú'))
+					else if ((c=='Ã¡')||(c=='Ã©')||(c=='Ã­')||(c=='Ã³')||(c=='Ãº'))
 					{
 						numVocales++;
 					}
